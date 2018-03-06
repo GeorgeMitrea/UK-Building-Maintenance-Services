@@ -1,0 +1,2 @@
+# UK-Building-Maintenance-Services
+According to the scenario, an application is required by an enterprise to manage the customer services. The company, ‘UK Building Maintenance Services’ deal with repairing and provide maintenance for home services such as painting, carpentering, roofing, plumbing etc. The company needs a desktop application in C# that can be accessed by the customers as well as the staff members such as the Admins and the engineers. The system has specific features as per the requirements of users. 
